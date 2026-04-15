@@ -7,12 +7,13 @@
 ## 3 Requisitos Específicos
 
 ### 3.1 Requisitos Funcionais:
-- RF-010
+- RF-001: O sistema deve permitir que usuários realizem reservas de quartos com antecedência mínima de 24 horas e máxima de 6 meses. (Jan/2026)
 
 ## 4 Controle de Versão
 
 ### 4.1 Histórico de Versões
-|  Data  |Autor |Motivo                                |
+|Versão |   Data   |Autor   |    Modificação    |
+|-------|----------|--------|-------------------|
+|  1.0  |2026-01-05|RafaelGC|Adicionado o RF-001|
 
-|Jan/2026|Rafael|Definição inicial do escopo do produto|
 ## 5 Conclusão
